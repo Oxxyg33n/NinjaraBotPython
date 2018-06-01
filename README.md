@@ -1,6 +1,6 @@
 # Ninjara Bot (Python version)
 
-Telegram bot which retrieves Nintendo tweets.
+Telegram bot which retrieves allows you to check user's timeline, post to user's timeline, search tweets with given query, check friends of user
 
 #### Why bot is called Ninjara? :)
 
@@ -16,6 +16,7 @@ Clone the repository to your local machine and set enviroment variable **NINJARA
 * [Telegram](https://telegram.org/)
 * [Telegram API](https://core.telegram.org/bots/api)
 * [Telegram Bot Python Library](https://github.com/python-telegram-bot/python-telegram-bot)
+* [Tweepy](http://www.tweepy.org/)
 
 ## Author
 
